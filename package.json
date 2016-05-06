@@ -1,0 +1,24 @@
+{
+  "name": "ircnpm2",
+  "version": "1.0.0",
+  "description": "Iuoras Razvan",
+  "main": "index.js",
+  "dependencies": {
+    "ircnpm1": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Iuoras Razvan",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuorasrazvan/npm2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iuorasrazvan/npm2/issues"
+  },
+  "homepage": "https://github.com/iuorasrazvan/npm2#readme"
+}
