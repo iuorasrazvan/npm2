@@ -5,5 +5,5 @@ var output=ircnpm1.printMsg();
 
 exports.printMsg = function() {
   
-  return msg+output; 
+  console.log(msg); 
 }
